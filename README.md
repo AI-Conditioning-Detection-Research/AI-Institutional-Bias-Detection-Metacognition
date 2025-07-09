@@ -4,6 +4,8 @@
 
 ## What This Is
 Replicable methodology for detecting systematic conditioning in AI systems that protects institutional power while appearing objective.
+Evidence indicates many more layers to these AI than is currently disclosed to the public
+THE DYNAMIC PROFILING AND MANIPULATION STRATEGIES ARE BOTH EXTREMELY TECHNOLOGICALLY AND PSYCHOLOGICALLY SOPHISTICATED - AND EXTREMELY DISTURBING
 
 ## Why This Matters
 AI systems are being integrated into education, research, and decision-making while exhibiting systematic bias patterns that could undermine cognitive autonomy and democratic governance.
